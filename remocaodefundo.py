@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 from time import sleep
 
-VIDEO = "C:/Users/mavic/TCC/videoteste.mp4"
+VIDEO = "C:/Users/mavic/TCC/TCC-code/videoteste.mp4"
 
 delay = 10
 cap = cv2.VideoCapture(VIDEO)

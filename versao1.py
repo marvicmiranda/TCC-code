@@ -19,7 +19,7 @@ detector = cv2.SimpleBlobDetector_create(params)
 blank = np.zeros((1, 1))
 
 # Captura o vídeo
-VIDEO = "C:/Users/mavic/TCC/videoteste.mp4"
+VIDEO = "C:/Users/mavic/TCC/TCC-code/videoteste.mp4"
 cap = cv2.VideoCapture(VIDEO)
 
 
