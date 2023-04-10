@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import sys 
 
-VIDEO = "C:/Users/mavic/TCC/videoteste2.mp4"
+VIDEO = "C:/Users/mavic/TCC/TCC-code/videoteste.mp4"
 
 algorithm_types = ['GMG', 'MOG2', 'MOG', 'KNN', 'CNT']
 algorithm_type = algorithm_types[2]
